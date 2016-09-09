@@ -1,7 +1,9 @@
 Docker Archlinux JDK
 ====================
 
-> Archlinux docker image with Oracle JDK.
+Archlinux docker image with Oracle JDK.
+
+## Description
 
 This image is based in the image [greyltc/archlinux](https://github.com/greyltc/docker-archlinux), available via [docker hub](https://hub.docker.com/r/greyltc/archlinux/).
 
