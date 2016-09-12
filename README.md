@@ -1,5 +1,6 @@
 Docker Archlinux JDK
 ====================
+![](https://images.microbadger.com/badges/image/rigon/archlinux-jdk.svg)
 
 Archlinux docker image with Oracle JDK.
 
